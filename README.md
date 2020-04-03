@@ -23,7 +23,9 @@ Join Udi Dahan for this extremely popular (and intensive) course on modern archi
 
 
 
-## Meetups
+## Meetups and Webinars
+
+* 
 
 
 * Wednesday April 8 2020 8pm to 9:30pm - Azure Exams Discussion - How to choose, study & sit.
