@@ -53,4 +53,6 @@ Phil Foxton - DOXBURGH & DevOps Principal - Lloyds Bank - How *NOT* to build a g
 
 Matt Turner - Head of Platform - ZIGLU - Bazel is a build system. Bored yet?
 
+* Monday May 18th 2020 - 6pm-8pm Jon Skeet - TBC
+https://www.meetup.com/Swansea-Software-Development-Meetup/events/268663234/
 
