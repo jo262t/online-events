@@ -3,6 +3,10 @@
 
 ## Online Conferences
 
+* April 7 & 8 2020 3pm LeadDev Live
+https://live.theleaddev.com/
+
+
 * Virtual Azure Community Day - Tuesday 31st March 2020
 https://azureday.community/?ocid=AIDREACTIVE_TWITTER_oo_spl100001208226695
 
