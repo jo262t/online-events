@@ -7,10 +7,18 @@
 https://live.theleaddev.com/
 
 
-* Virtual Azure Community Day - Tuesday 31st March 2020
+* Tuesday 31st March 2020 Virtual Azure Community Day
 https://azureday.community/?ocid=AIDREACTIVE_TWITTER_oo_spl100001208226695
 
 
+* Friday 17th April 2020 - All Day DevOps Spring Break
+https://www.alldaydevops.com/2020-schedule
+
+* Tuesday 21st April Failover Conf
+https://failover-conf.heysummit.com/?utm_source=honeycomb#
+
+* Tue/Wed April 28/29 - Learn Power Platform in your PJs
+https://event.vconferenceonline.com/microsite/html/event.aspx?id=1543&utm_campaign=Power%20Platform%20Virtual%20Conference&utm_source=hs_email&utm_medium=email&utm_content=86092142&_hsenc=p2ANqtz-9AdFyrco0hfWciC2V8H2ZmJYfirhEy4cEgT5q95iMmxeeyqIm73XPXsnlSFQQXflJGkx2AFMf0Rvc3dzsx31KuRrg1iw&_hsmi=86092794
 
 ## Online Training
 
@@ -32,7 +40,8 @@ Join Udi Dahan for this extremely popular (and intensive) course on modern archi
 
 ## Meetups and Webinars
 
-* 
+* Thursday 23rd April - 6pm - Build integrations not more product features - How fintechs use third party brands to drive engagement
+https://business.ifttt.com/build-integrations-not-more-product-features?utm_medium=Email&utm_source=Customerio&utm_campaign=User_webinar_promo_April20&
 
 
 * Wednesday April 8 2020 8pm to 9:30pm - Azure Exams Discussion - How to choose, study & sit.
