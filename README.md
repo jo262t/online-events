@@ -17,6 +17,8 @@ https://www.alldaydevops.com/2020-schedule
 * Tuesday 21st April Failover Conf
 https://failover-conf.heysummit.com/?utm_source=honeycomb#
 
+* Monday 27th April - OWASP virtual conference
+
 * Tue/Wed April 28/29 - Learn Power Platform in your PJs
 https://event.vconferenceonline.com/microsite/html/event.aspx?id=1543&utm_campaign=Power%20Platform%20Virtual%20Conference&utm_source=hs_email&utm_medium=email&utm_content=86092142&_hsenc=p2ANqtz-9AdFyrco0hfWciC2V8H2ZmJYfirhEy4cEgT5q95iMmxeeyqIm73XPXsnlSFQQXflJGkx2AFMf0Rvc3dzsx31KuRrg1iw&_hsmi=86092794
 
