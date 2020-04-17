@@ -14,8 +14,12 @@ https://azureday.community/?ocid=AIDREACTIVE_TWITTER_oo_spl100001208226695
 * Friday 17th April 2020 - All Day DevOps Spring Break
 https://www.alldaydevops.com/2020-schedule
 
-* Tuesday 21st April Failover Conf
+* Tuesday 21st April - Failover Conf
 https://failover-conf.heysummit.com/?utm_source=honeycomb#
+
+* Thursday 23rd April - Pluralsight Tech Skills Day
+https://www.pluralsight.com/techskillsday?clickid=TyJz0mU2txyORNMwUx0Mo3EWUkix-LVlH0dXWc0&irgwc=1&mpid=1252855&utm_source=impactradius&utm_medium=digital_affiliate&utm_campaign=1252855&aid=7010a000001xAKZAA2
+
 
 * Monday 27th April - OWASP virtual conference
 
